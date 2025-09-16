@@ -20,7 +20,7 @@ While this version does **not use React**, future updates may explore more advan
 ---
 
 ### 🎶 Main Page  
-![Main Page](https://github.com/SonuR12/Spotify-Clone/blob/main/spotify%20%20clone/assets/Spotify.png)  
+![Main Page](https://github.com/SonuR12/Spotify-Clone/blob/main/assets/Spotify.png)  
 
 ---
 
