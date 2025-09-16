@@ -14,15 +14,17 @@ While this version does **not use React**, future updates may explore more advan
 
 ## 📸 Screenshots  
 
+### 🎶 Main Page  
+![Main Page](https://github.com/SonuR12/Spotify-Clone/blob/main/assets/Spotify.png) 
+
+---
+
 ### 🔑 Login Page  
 <img width="513" alt="Login Page" src="https://github.com/user-attachments/assets/a199ebed-5d99-4eb9-a60d-fae5627dfd1d">  
 
 ---
 
-### 🎶 Main Page  
-![Main Page](https://github.com/SonuR12/Spotify-Clone/blob/main/assets/Spotify.png)  
-
----
+ 
 
 ### 📝 Sign Up Page  
 <img width="417" alt="SignUp Page" src="https://github.com/user-attachments/assets/b99374eb-ee1f-4c3f-832a-638197840987">  
